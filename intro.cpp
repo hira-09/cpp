@@ -12,9 +12,3 @@ int main() {
 	getch();
 	return 0;
 }
-
-
-//name
-//qualification
-//city
-//country
